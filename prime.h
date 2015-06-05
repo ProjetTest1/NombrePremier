@@ -1,5 +1,5 @@
 #ifndef PRIME
 #define PRIME
-
-int isPrime(long number);
+#include "stdbool.h"
+bool isPrime(int number); // Defini la primalité d'u nombre
 #endif

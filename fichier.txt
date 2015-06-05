@@ -1,0 +1,2 @@
+Compiler le programme, lancez le avec un nombre en parametre et la primalité de ce 
+nombre vous sera donner
